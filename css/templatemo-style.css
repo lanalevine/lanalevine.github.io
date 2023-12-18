@@ -254,6 +254,15 @@ h1 {
     justify-content: space-between;
 }
 
+.intro-img-1 {
+	width:250px;
+}
+
+.intro-img-2 {
+	width:250px;
+}
+
+
 /* Gallery page */
 .gallery-container {
     max-width: 1300px;
