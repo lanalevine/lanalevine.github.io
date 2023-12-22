@@ -361,6 +361,11 @@ h1 {
   margin-bottom: 80px;
 }
 
+.gallery-img {
+  width: 275px;
+  height: 320px;
+}
+
 /*---------------*/
 /***** Julia *****/
 /*---------------*/
