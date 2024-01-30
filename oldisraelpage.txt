@@ -1,0 +1,16 @@
+		<div>
+			<h1>  Dec 2022 - Jan 2023 </h1><br>
+		</div>
+		<div class=" page-center">
+			 <img src="img/Israel/israel-img-1.JPG" alt="Image" class="israel-img">
+			 <img src="img/Israel/israel-img-2.JPG" alt="Image" class="israel-img"><br>
+			 <img src="img/Israel/israel-img-4.jpg" alt="Image" class="israel-img">
+			 <img src="img/Israel/israel-img-5.JPG" alt="Image" class="israel-img"><br>
+			 <img src="img/Israel/israel-img-6.JPG" alt="Image" class="israel-img">
+			 <img src="img/Israel/israel-img-7.JPG" alt="Image" class="israel-img"><br>
+			 <img src="img/Israel/israel-img-8.JPG" alt="Image" class="israel-img">
+			 <img src="img/Israel/israel-img-9.JPG" alt="Image" class="israel-img"><br>
+			 <img src="img/Israel/israel-img-10.JPG" alt="Image" class="israel-img">
+			 <img src="img/Israel/israel-img-11.JPG" alt="Image" class="israel-img">
+		</div>
+
